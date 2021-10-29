@@ -21,7 +21,7 @@ public class Alien {
 		this.acolor = acolor;
 	}
 	public void setAid(int aid) {
-		this.aid = aid;
+		this.aid = aid;;;;
 	}
 }
 
