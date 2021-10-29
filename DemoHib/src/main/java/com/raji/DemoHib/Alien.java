@@ -1,7 +1,7 @@
 package com.raji.DemoHib;
 
 public class Alien {
-
+	//POJO Class file.
 	private int aid;
 	private String aname;
 	private String acolor;
