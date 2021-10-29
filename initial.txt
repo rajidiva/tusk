@@ -8,3 +8,7 @@ Grasping
 
 knowledge
 teaching
+
+
+
+finished
